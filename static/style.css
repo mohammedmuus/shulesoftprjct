@@ -1,0 +1,425 @@
+/* Landing Page */
+
+
+html{
+box-sizing: border-box;
+
+position: relative;
+width: 100%;
+height: 100%;
+
+background: linear-gradient(180deg, #F3F8F7 20%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+/* opt-green-1 */
+
+
+}
+
+.wrapper{
+position: relative;
+width: 100%;
+height: 100%;
+
+
+}
+
+
+
+
+
+#title10 {
+color: #19B99A;
+}
+
+#title10 .container-fluid {
+color: #19B99A;
+position: absolute;
+margin: auto;
+}
+
+#title10 .navbar{
+
+color: #19B99A;
+text-align: right;
+margin: -50px 0 0 0;
+}
+
+#title10 .navbar-brand{
+color: #19B99A;
+font-size: 2.5rem;
+bottom: 1500px;
+padding: 1% 0 0 10%;
+
+}
+#title10 .navbar-brand img{
+width: 105px;
+height: 100px;
+
+}
+#title10 .nav-item{
+padding: 0 10px;
+color: #19B99A;
+text-align: right;
+}
+
+#title10 .nav-link{
+font-size: 1.2rem;
+color: #19B99A;
+font-weight: 300;
+
+bottom: 1500px;
+}
+
+#title10,#cta .download-button{
+margin: 3.5% 0 0 0;
+}
+
+#title10 .navbar-toggler,.navbar-toggler-icon,.navbar navbar-expand-lg navbar-dark{
+color: #19B99A;
+}
+
+/* Get all The Information at your fingertips */
+
+.text-container .title{
+position: absolute;
+margin: auto;
+width: 579px;
+height: 120px;
+left: 201px;
+top: 150px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* or 83% */
+
+
+color: #54575A;
+
+
+}
+
+.text-container .title2{
+position: absolute;
+width: 579px;
+height: 120px;
+left: 350px;
+top: 200px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* or 83% */
+
+
+
+
+color: #19B99A;
+}
+
+/* Vector 10 */
+
+hr{
+position: absolute;
+width: 280px;
+height: 0px;
+left: 220px;
+top: 240px;
+
+/* opt-green-1 */
+
+border: 8px solid #19B99A;
+border-radius: 20px;
+}
+
+.text-container .text{
+position: absolute;
+width: 585px;
+height: 72px;
+left: 211px;
+top: 330px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+
+
+color: #54575A;}
+
+/* Aliquam rhoncus pretium dolor volutpat lectus odio non tellus neque. Aliquet et purus nibh bibendum integer etiam in enim nisi. */
+
+.text-container .text1{
+position: absolute;
+width: 585px;
+height: 72px;
+left: 207px;
+top: 470px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+
+
+color: #54575A;}
+
+/* Aliquam rhoncus pretium dolor volutpat lectus odio non tellus neque. Aliquet et purus nibh bibendum integer etiam in enim nisi. */
+
+.text-container .text2{
+position: absolute;
+width: 585px;
+height: 72px;
+left: 207px;
+top: 600px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+
+
+color: #54575A;}
+/* humaaans/standing-21 */
+
+.text-container .brand-img{
+position: absolute;
+left: 760px;
+right: 40.22%;
+height: 600px;
+width: 450px;
+top: 230px;
+bottom: 11.75%;
+}
+.main-container{
+position: absolute;
+left: 1300px;
+right: 3.37%;
+top: 50px;
+bottom: 7.1%;
+
+filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+transform: rotate(0.0deg);}
+
+.main-container img{
+height: 880px;
+width: 485px;
+}
+.app-store-btn
+{
+position: absolute;
+width: 120px;
+height: 30.28px;
+left: 201px;
+top: 830px;
+}
+
+.app-store-btn img{
+
+width: 150px;
+height: 48.28px;
+}
+
+.google-store-btn
+{
+position: absolute;
+width: 120px;
+height: 30.28px;
+left: 370px;
+top: 830px;
+}
+
+.google-store-btn img{
+width: 150px;
+height: 48.28px;
+border-radius: 10px;
+}
+
+
+.title1{
+
+/* Download the App */
+
+
+position: absolute;
+width: 300px;
+height: 40px;
+left: 201px;
+top: 780px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+/* identical to box height, or 111% */
+
+
+color: #54575A;
+
+}
+
+.title3{
+position: absolute;
+width: 300px;
+height: 40px;
+left: 480px;
+top: 780px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+/* identical to box height, or 111% */
+
+
+/* opt-green-1 */
+
+color: #19B99A;
+}
+
+
+
+@media only screen and (max-width: 1000px)
+{
+
+
+#title10 .container-fluid {
+  color: #19B99A;
+  position: absolute;
+
+  margin: 30px 0 0 0;}
+
+#title10 .navbar-brand img{
+width: 60px;
+height: 55px;
+margin: -10px 0 0 -30px;
+
+}
+
+#title10 .navbar navbar-expand-lg navbar-dark{
+margin: 55px 0 0 0;
+
+}
+
+.text-container .text{
+width: 300px;
+margin: -90px 0 0 -180px;
+height: 55px;
+font-size: 16px;
+}
+
+.text-container .text1{
+width: 300px;
+margin: -90px 0 0 -180px;
+height: 55px;
+font-size: 16px;
+}
+
+.text-container .text2{
+width: 300px;
+margin: -90px 0 0 -180px;
+height: 55px;
+font-size: 16px;
+}
+
+.text-container .brand-img{
+margin: 440px 0 0 -748px;
+height: 190px;
+width: 120px;
+}
+
+.main-container{
+position: absolute;
+margin: 560px 0 0 -1200px;
+
+filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.25));
+transform: rotate(0.0deg);}
+
+.main-container img{
+height: 420px;
+width: 230px;
+margin: 0 0 0 30px;
+}
+
+.text-container .title{
+width: 300px;
+margin: -80px 0 0 -180px;
+height: 55px;
+font-size: 24px;
+
+}
+.text-container .title2{
+width: 300px;
+margin: -30px 0 0 -230px;
+height: 55px;
+font-size: 24px;
+}
+
+hr{
+position: absolute;
+width: 250px;
+height: 0px;
+margin: -20px 0 0 -200px;
+
+/* opt-green-1 */
+
+border: 4px solid #19B99A;
+border-radius: 10px;
+}
+
+.title1{
+width: 300px;
+height: 55px;
+font-size: 24px;
+margin: 240px 0 0 -150px;
+}
+.title3{
+width: 300px;
+height: 55px;
+font-size: 24px;
+margin: 240px 0 0 -240px;
+}
+
+
+
+.app-store-btn img{
+
+width: 130px;
+height: 47.28px;
+margin: 240px 0 0 -165px;
+}
+
+
+.google-store-btn img{
+width: 130px;
+height: 47.28px;
+border-radius: 10px;
+margin: 240px 0 0 -170px;
+}
+
+body{
+  overflow-x: hidden !important;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
